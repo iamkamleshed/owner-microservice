@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Kamlesh Kandel
+Build-Jdk: 17.0.9
+Implementation-Title: employee-microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.emp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/employee-microservice
+Created-By: Maven Integration for Eclipse
+
